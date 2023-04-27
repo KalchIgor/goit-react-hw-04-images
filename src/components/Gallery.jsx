@@ -4,7 +4,7 @@ import { getFetch } from "./Fetch/Fetch";
 import Searchbar from "./Searchbar/Searchbar";
 import { ImageGallery } from "./Gallery/ImageGallery/ImageGallery";
 import { Loader } from "./Gallery/Loader/Loader";
-import  Modal  from "./Gallery/Modal/Modal";
+import  Modal  from "./Gallery/Modal";
 import { LoadMore } from "./Gallery/Button/Button";
 
 

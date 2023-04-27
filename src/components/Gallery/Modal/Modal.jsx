@@ -38,8 +38,6 @@ export default function Modal ({url, closeModal}) {
     );
   }
 
-
-
 Modal.propTypes = {
 
   url: PropTypes.string.isRequired,
