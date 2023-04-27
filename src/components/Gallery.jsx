@@ -1,7 +1,7 @@
 import React from "react";
 import { Component } from "react";
 import { getFetch } from "./Fetch/Fetch";
-import Searchbar from "./Searchbar/Searchbar";
+import Searchbar from "./Searchbar";
 import { ImageGallery } from "./Gallery/ImageGallery/ImageGallery";
 import { Loader } from "./Gallery/Loader/Loader";
 import  Modal  from "./Gallery/Modal";
